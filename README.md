@@ -1,2 +1,2 @@
 # learning-opengl
-My attempts to learn Opengl
+My attempts to learn Opengl 
